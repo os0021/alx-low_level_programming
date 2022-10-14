@@ -1,20 +1,12 @@
-k#include <stdio.h>
+#include <stdio.h>
 
 
 
 /**
+ * main - print single digit numbers
  *
- *  * main - print single digit numbers
- *
- *   *
- *
- *    * Description: print single digit numbers with commas
- *
- *     *
- *
- *      * Return: Always 0 (Success)
- *
- *       */
+ * Return: Always 0 (Success)
+ */
 
 
 

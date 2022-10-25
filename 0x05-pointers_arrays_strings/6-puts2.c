@@ -28,7 +28,3 @@ void puts2(char *str)
 			_putchar(str[count]);
 												count++;								}
 }
-
-Footer
-
-© 2022 GitHub, I
